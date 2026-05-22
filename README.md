@@ -1,8 +1,13 @@
-<img src="src/anime.gif" alt="anime gif" width="150" align="left" hspace="20" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&height=100&vCenter=true&multiline=true&repeat=false&lines=I'm+Otsolain.;I'm+a+computer+science+student;interested+in+web+security." alt="Typing SVG" /></a>
-
-<br clear="left" />
+<table>
+<tr>
+<td width="170" valign="middle">
+  <img src="src/anime.gif" alt="anime gif" width="150" />
+</td>
+<td valign="middle">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&height=100&vCenter=true&multiline=true&repeat=false&lines=I'm+Otsolain.;I'm+a+computer+science+student;interested+in+web+security." alt="Typing SVG" /></a>
+</td>
+</tr>
+</table>
 
 **Currently focusing on:**
 
