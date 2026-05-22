@@ -1,6 +1,6 @@
 <img src="src/anime.gif" alt="anime gif" width="250" align="left" />
 
-&emsp;&emsp;&emsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=600&height=130&vCenter=true&multiline=true&repeat=false&lines=I'm+Otsolain.;I'm+a+computer+science+student;interested+in+web+security." alt="Typing SVG" /></a>
+&emsp;&emsp;&emsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&height=130&vCenter=true&multiline=true&repeat=false&lines=I'm+Otsolain.;I'm+a+computer+science+student;interested+in+web+security." alt="Typing SVG" /></a>
 
 <br clear="left" />
 
