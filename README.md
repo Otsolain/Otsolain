@@ -28,3 +28,8 @@
     <img alt="pacman-contribution-graph" src="https://raw.githubusercontent.com/otsolain/otsolain/output/pacman-contribution-graph-dark.svg" />
   </picture>
 </div>
+
+<div align="center">
+  <h2>Visitor Counter</h2>
+  <img src="https://count.getloli.com/@:otsolain?name=%3Aotsolain&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+</div>
