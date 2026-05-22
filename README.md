@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="src/banner.gif" alt="Banner" width="500" />
-</div>
-
 <h1 align="center">Hi there <sub><img src="src/wave.gif" alt="wave" width="40" height="40" /></sub></h1>
 
 <img src="src/anime.gif" alt="anime gif" width="250" align="left" />
