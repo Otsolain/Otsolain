@@ -1,4 +1,5 @@
 <h1 align="center">Hi there <sub><img src="src/wave.gif" alt="wave" width="40" height="40" /></sub></h1>
+
 <img src="src/anime.gif" alt="anime gif" width="250" align="left" />
 
 &emsp;&emsp;&emsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=420&height=110&vCenter=true&multiline=true&repeat=false&lines=I'm+Otsolain.;I'm+a+computer+science+student;interested+in+web+security." alt="Typing SVG" /></a>
